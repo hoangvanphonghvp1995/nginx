@@ -1,3 +1,3 @@
-<?
-echo "Hi World. 15:07 "
+<?php
+echo "Hi World. 15:21"
 ?>
